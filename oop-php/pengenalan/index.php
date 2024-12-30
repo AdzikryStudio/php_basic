@@ -1,6 +1,6 @@
 <?php
 OBJECT ORIENTED PROGRAMMING(OOP)
-adalah pemrogramman berbasis objek.
+adalah pemrogramman berbasis obje\k.
 
 
 PERBEDAAN PROCEDURAL PROGRAMMING DAN OOP
